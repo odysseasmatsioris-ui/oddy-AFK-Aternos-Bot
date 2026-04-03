@@ -1,4 +1,4 @@
-{
+e {
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Weclccome to Laerton SMP",
+        "JOIN OUR DISCORD! https://discord.gg/MmA3gRtjU4 ",
       ]
     },
     "chat-log": true,
